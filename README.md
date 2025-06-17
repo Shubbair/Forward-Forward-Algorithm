@@ -1,6 +1,6 @@
 # Forward-Forward-Algorithm
 
-the algorithm was produced by hinton in 2022 , using two forward passes to minic the learning in the cortex at sleeping.
+the algorithm was produced by hinton in 2022 , using two forward passes to minic the learning in the cortex at sleeping (hinton statement).
 
 [Forward Forward Algorithm](https://arxiv.org/pdf/2212.13345)
 
@@ -18,6 +18,7 @@ use contrastive learning , positive and negative pass including label of image c
 </div>
 
 ## Result :
+loss of testset **0.67%** and accuracy **93.27%**
 <div align="center">
   <img alt="loss" src="assets/output.png" width="50%"/>
 </div>
