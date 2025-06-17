@@ -23,7 +23,9 @@ loss of testset **0.67%** and accuracy **93.27%**
   <img alt="loss" src="assets/output.png" width="50%"/>
 </div>
 
+</br></br>
 Arabic Summarization of the paper : [here](https://open.substack.com/pub/shubbair/p/the-forward-forward-algorithm)
+
 
 ### Read More :
 
